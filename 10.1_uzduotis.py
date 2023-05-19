@@ -17,5 +17,5 @@ class Namas:
 jono_namas = Namas(30, 10000)
 print(jono_namas.get_verte())
 
-jono_namas.set_verte(-300000)
+jono_namas.set_verte(300000)
 print(jono_namas.get_verte())
